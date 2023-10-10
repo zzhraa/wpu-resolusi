@@ -1,0 +1,6 @@
+Hallo pak, salam kenal saya Azzahra dari SMK Muhammadiyah Tasikmalaya
+
+Resolusi Saya :
+- Membuat tampilan design website di figma
+- Menjadi FrontEnd
+- Menggunakan Tailwind CSS
